@@ -1,0 +1,8 @@
+#displayStopwatch{
+    display: flex;
+}
+
+.numerosDisplay {
+    margin-left: 25px;
+    position: center;
+}
